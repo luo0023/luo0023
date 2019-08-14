@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Markdown语法
-date: 2019-08-14 00:01:00 +0300
+date: 2019-08-14 00:00:10 +0300
 description: markdown # Add post description (optional)
 img: md.jpg # Add image post (optional)
 tags: [md] # add tag
