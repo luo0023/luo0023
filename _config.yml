@@ -1,4 +1,4 @@
-title: luoMX Blog! 
+title: lMX Blog! 
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -9,7 +9,7 @@ url: "http://luo0023.github.io" # the base hostname & protocol for your site, e.
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: LuoMinXin # add your name
+author: LMX # add your name
 author-img: tx.jpg # add your photo
 about-author: 这家伙很懒，什么都没有写 # add description
 social-twitter: luo0023 # add your Twitter handle
